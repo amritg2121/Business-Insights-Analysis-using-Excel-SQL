@@ -1,4 +1,4 @@
-# Retail Business Analysis using Excel & SQL
+# Business Insights Analysis using Excel & SQL
 
 ## Project Overview
 
